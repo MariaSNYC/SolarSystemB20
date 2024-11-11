@@ -9,5 +9,9 @@ public class SolarSystem {
         Archilies.color="Red";
         Archilies.size="50meters";
         Archilies.temp="90000000";
+
+        planet2 nobel=new planet2();
+        nobel.temp="1000000k";
+        nobel.color="black";
     }
 }
